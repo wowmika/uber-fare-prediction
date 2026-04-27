@@ -18,4 +18,4 @@ Uber Fares Dataset – Kaggle (yasserh/uber-fares-dataset)
 - Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## Author
-Sonusha | April 2026
+Sonushaw | April 2026
